@@ -1,3 +1,4 @@
+'use client';
 import StripePaymentForm from '@/components/StripePaymentForm';
 import StripeProvider from '@/components/StripeProvider';
 import { motion } from "framer-motion";
