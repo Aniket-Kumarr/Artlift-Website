@@ -248,7 +248,7 @@ export default function Products() {
               <h3 className="text-lg font-semibold mb-4">Connect</h3>
               <ul className="space-y-2 text-gray-400">
                 <li><Link href="/products" className="hover:text-white transition-colors">Products</Link></li>
-                <li>Get Started</Link></li>
+                <li><Link href="/payment" className="hover:text-white transition-colors">Get Started</Link></li>
                 <li>Client Portal</li>
                 <li>Support</li>
               </ul>
