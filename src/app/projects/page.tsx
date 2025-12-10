@@ -493,7 +493,7 @@ export default function ProjectsPage() {
               </span>
             </motion.h2>
             <p className="text-2xl text-blue-200 mb-12 max-w-4xl mx-auto leading-relaxed">
-              Let's collaborate to bring your artistic vision to life. Our team of experts is ready 
+              Let&apos;s collaborate to bring your artistic vision to life. Our team of experts is ready 
               to create something extraordinary just for you.
             </p>
             <motion.a

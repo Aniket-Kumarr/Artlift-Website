@@ -298,7 +298,7 @@ export default function Home() {
             </motion.h2>
             <p className="text-2xl text-blue-200 mb-12 max-w-4xl mx-auto leading-relaxed">
               Join countless satisfied clients who have transformed their digital presence and lives 
-              with Artlift's innovative artistic solutions and unparalleled creativity.
+              with Artlift&apos;s innovative artistic solutions and unparalleled creativity.
             </p>
             <motion.a
               href="/payment"

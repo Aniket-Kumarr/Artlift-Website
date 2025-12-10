@@ -211,7 +211,7 @@ export default function PaymentPage() {
               transition={{ duration: 1, delay: 0.4 }}
             >
               Transform your artistic vision into reality with our secure payment system. 
-              Choose your service, enter your details, and let's create something extraordinary together.
+              Choose your service, enter your details, and let&apos;s create something extraordinary together.
             </motion.p>
           </motion.div>
 
@@ -356,7 +356,7 @@ export default function PaymentPage() {
                 </span>
               </motion.h2>
               <p className="text-2xl text-blue-200 mb-12 max-w-4xl mx-auto leading-relaxed">
-                Join countless satisfied clients who have transformed their spaces and lives with Artlift's 
+                Join countless satisfied clients who have transformed their spaces and lives with Artlift&apos;s 
                 innovative artistic solutions and unparalleled creativity.
               </p>
               <div className="flex flex-col sm:flex-row gap-6 justify-center">

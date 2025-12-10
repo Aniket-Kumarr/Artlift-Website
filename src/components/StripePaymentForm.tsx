@@ -132,7 +132,7 @@ export default function StripePaymentForm({
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.6, delay: 0.8 }}
           >
-            Thank you for choosing Artlift! We'll be in touch soon to discuss your project details.
+            Thank you for choosing Artlift! We&apos;ll be in touch soon to discuss your project details.
           </motion.p>
 
           <motion.div
