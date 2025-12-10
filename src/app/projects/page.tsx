@@ -498,7 +498,7 @@ export default function ProjectsPage() {
             </p>
             <motion.a
               href="/payment"
-              className="inline-block bg-gradient-to-r from-blue-600 via-cyan-600 to-indigo-600 text-white px-16 py-6 rounded-3xl text-2xl font-bold hover:from-blue-700 hover:via-cyan-700 hover:to-indigo-700 transition-all duration-500 shadow-2xl hover:shadow-blue-500/30 transform hover:scale-105 flex items-center justify-center space-x-3 mx-auto"
+              className="inline-flex bg-gradient-to-r from-blue-600 via-cyan-600 to-indigo-600 text-white px-16 py-6 rounded-3xl text-2xl font-bold hover:from-blue-700 hover:via-cyan-700 hover:to-indigo-700 transition-all duration-500 shadow-2xl hover:shadow-blue-500/30 transform hover:scale-105 items-center justify-center space-x-3 mx-auto"
               whileHover={{ y: -5 }}
               whileTap={{ scale: 0.95 }}
             >
