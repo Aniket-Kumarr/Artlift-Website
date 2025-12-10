@@ -15,8 +15,8 @@ export const getStripe = async () => {
 // Stripe configuration constants
 export const STRIPE_CONFIG = {
   currency: 'usd',
-  payment_method_types: ['card'],
-} as const;
+  payment_method_types: ['card'] as ('card')[],
+};
 
 // Payment intent configuration
 export const PAYMENT_INTENT_CONFIG = {
